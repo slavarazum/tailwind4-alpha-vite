@@ -1,4 +1,6 @@
-@import "@fontsource-variable/nunito";
+@import "tailwindcss";
+
+@import "@fontsource-variable/nunito" layer(base);
 
 :root {
   font-family: "Nunito Variable", system-ui, Avenir, Helvetica, Arial, sans-serif;
